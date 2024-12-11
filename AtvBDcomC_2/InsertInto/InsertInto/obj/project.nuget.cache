@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ce/5Cz6t0dg+0RIHZdOjciGp34OeaI5X5hOxmVYtenOiezWn2u3m+F3KBVwNLwQKlycIavSIvhrIJ8QtbifBMg==",
+  "dgSpecHash": "yty9i7unOFePkhvkw3mYTZqIh90VT9MbM4zTFoRj0OnDcSiL+/TT8q2NV5/0jWDHG5OkTbkjjjtveF4LHwd/9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fernando.nprimo\\source\\repos\\InsertInto\\InsertInto\\InsertInto.csproj",
+  "projectFilePath": "C:\\Users\\fernando.nprimo\\Documents\\GitHub\\BDcomC\\AtvBDcomC_2\\InsertInto\\InsertInto\\InsertInto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fernando.nprimo\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\fernando.nprimo\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

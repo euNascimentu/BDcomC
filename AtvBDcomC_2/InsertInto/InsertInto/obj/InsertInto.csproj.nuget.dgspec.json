@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fernando.nprimo\\source\\repos\\InsertInto\\InsertInto\\InsertInto.csproj": {}
+    "C:\\Users\\fernando.nprimo\\Documents\\GitHub\\BDcomC\\AtvBDcomC_2\\InsertInto\\InsertInto\\InsertInto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fernando.nprimo\\source\\repos\\InsertInto\\InsertInto\\InsertInto.csproj": {
+    "C:\\Users\\fernando.nprimo\\Documents\\GitHub\\BDcomC\\AtvBDcomC_2\\InsertInto\\InsertInto\\InsertInto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fernando.nprimo\\source\\repos\\InsertInto\\InsertInto\\InsertInto.csproj",
+        "projectUniqueName": "C:\\Users\\fernando.nprimo\\Documents\\GitHub\\BDcomC\\AtvBDcomC_2\\InsertInto\\InsertInto\\InsertInto.csproj",
         "projectName": "InsertInto",
-        "projectPath": "C:\\Users\\fernando.nprimo\\source\\repos\\InsertInto\\InsertInto\\InsertInto.csproj",
+        "projectPath": "C:\\Users\\fernando.nprimo\\Documents\\GitHub\\BDcomC\\AtvBDcomC_2\\InsertInto\\InsertInto\\InsertInto.csproj",
         "packagesPath": "C:\\Users\\fernando.nprimo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fernando.nprimo\\source\\repos\\InsertInto\\InsertInto\\obj\\",
+        "outputPath": "C:\\Users\\fernando.nprimo\\Documents\\GitHub\\BDcomC\\AtvBDcomC_2\\InsertInto\\InsertInto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

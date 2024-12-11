@@ -1557,11 +1557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fernando.nprimo\\source\\repos\\BDcomC\\BDcomC\\BDcomC.csproj",
+      "projectUniqueName": "C:\\Users\\fernando.nprimo\\Documents\\GitHub\\BDcomC\\BDcomC\\BDcomC\\BDcomC.csproj",
       "projectName": "BDcomC",
-      "projectPath": "C:\\Users\\fernando.nprimo\\source\\repos\\BDcomC\\BDcomC\\BDcomC.csproj",
+      "projectPath": "C:\\Users\\fernando.nprimo\\Documents\\GitHub\\BDcomC\\BDcomC\\BDcomC\\BDcomC.csproj",
       "packagesPath": "C:\\Users\\fernando.nprimo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fernando.nprimo\\source\\repos\\BDcomC\\BDcomC\\obj\\",
+      "outputPath": "C:\\Users\\fernando.nprimo\\Documents\\GitHub\\BDcomC\\BDcomC\\BDcomC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
